@@ -25,11 +25,13 @@ The FtaCoder has two functions:
 1. AnalizeSingleFtas to analyze one FTA.
 
 It follows the following syntax. '[]' indicates optional arguments.
+
 AnalizeSingleFta(TOPIC , FTA NUMBER, LIST OF KEYWORDS, OUTPUT FOLDER, [LIST OF KEYWORDS FOR COOPERATION CHAPTERS])
 
 2. AnalizeAllFtas to analyze all the FTAs.
 
 It follows the following syntax. '[]' indicates optional arguments.
+
 AnalizeAllFtas(TOPIC, LIST OF KEYWORDS, OUTPUT FOLDER, [LIST OF KEYWORDS FOR COOPERATION CHAPTERS])
 
 
