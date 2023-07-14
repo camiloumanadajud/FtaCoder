@@ -13,10 +13,10 @@ readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
+    "License :: OSI Approved :: GNU GENERAL PUBLIC LICENSE V3",
     "Operating System :: OS Independent",
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/pypa/sampleproject"
-"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
+"Homepage" = "https://github.com/camiloumanadajud/FtaCoder"
+"Bug Tracker" = "https://github.com/camiloumanadajud/FtaCoder/issues"
