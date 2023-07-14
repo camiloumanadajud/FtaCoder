@@ -6,7 +6,7 @@ This python package automatically determines if a topic is covered by a Free Tra
 
 It genereates both a html file with the analysis that you can open in any browser and a csv file for quantitative analysis.
 
-The package includes the [https://github.com/mappingtreaties/tota](TOTA full text machine-readable corpus of preferential trade agreements).
+The package includes the [TOTA full text machine-readable corpus of preferential trade agreements](https://github.com/mappingtreaties/tota).
 
 ## Installation
 
