@@ -6,7 +6,7 @@ This python package automatically determines if a topic is covered by a Free Tra
 
 It generates both a html file with the analysis that you can open in any browser and a csv file for quantitative analysis.
 
-The package includes the [TOTA full text machine-readable corpus of preferential trade agreements](https://github.com/mappingtreaties/tota). The corpus is distributed under Creative Commons Attribution-NonCommercial 4.0 International license. It should be cited as: Wolfgang Alschner, Julia Seiermann & Dmitriy Skougarevskiy (2017): Text-as-data analysis of preferential trade agreements: Mapping the PTA landscape, UNCTAD Research Paper No. 5, UNCTAD/SER.RP/2017/5.
+The package includes the [TOTA full text machine-readable corpus of preferential trade agreements](https://github.com/mappingtreaties/tota). The corpus is distributed under Creative Commons Attribution-NonCommercial 4.0 International license. The corpus should be cited as: Wolfgang Alschner, Julia Seiermann & Dmitriy Skougarevskiy (2017): Text-as-data analysis of preferential trade agreements: Mapping the PTA landscape, UNCTAD Research Paper No. 5, UNCTAD/SER.RP/2017/5.
 
 ## Installation
 
