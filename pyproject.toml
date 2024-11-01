@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "FtaCoder_camiloumanadajud"
+version = "0.0.1"
+authors = [
+  { name="Camilo Umana-Dajud", email="camilo@umana-dajud.com" },
+]
+description = "A package to automatically code FTAs"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU GENERAL PUBLIC LICENSE V3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/camiloumanadajud/FtaCoder"
+"Bug Tracker" = "https://github.com/camiloumanadajud/FtaCoder/issues"
